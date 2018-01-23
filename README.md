@@ -1,4 +1,6 @@
 # sql-dw-dimensions
-Creating dimensions for DW.
+Creating calendar dimensions for SQL Server DW. In case this is of use to someone.
 
-YMMV, to be updated. Not sure where this was originally from, pieced together from various places/old scripts I had lying around.
+YMMV, not sure where this was originally from, pieced together from various places/old scripts I had lying around.
+
+Need to update lots
