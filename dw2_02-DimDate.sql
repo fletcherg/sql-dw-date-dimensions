@@ -56,8 +56,8 @@ Declare
 @EndDate datetime,
 @Date datetime
  
-Set @StartDate = '2015/01/01'
-Set @EndDate = '2018/12/31'
+Set @StartDate = '2010/01/01'
+Set @EndDate = '2020/12/31'
 Set @Date = @StartDate
  
 -- Loop through dates
